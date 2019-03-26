@@ -6,7 +6,7 @@ categories:
   - Featured
 sources:
   - 'https://github.com/codefresh-contrib/sendgridplugin'
-icon: https://github.com/codefresh-plugins/sendgridplugin/blob/master/icon.jpg
+icon: https://raw.githubusercontent.com/codefresh-plugins/sendgridplugin/blob/master/icon.jpg
 maintainers:
   - name: Pavel Kostohrys
 envs:
