@@ -3,7 +3,7 @@ image: codefreshplugins/sendgridplugin
 version: 0.1.0
 description: Send e-mail via Sendgrid
 categories:
-  - Featured
+  - featured
 sources:
   - 'https://github.com/codefresh-contrib/sendgridplugin'
 icon: https://raw.githubusercontent.com/codefresh-plugins/sendgridplugin/master/icon.jpg
